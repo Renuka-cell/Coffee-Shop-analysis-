@@ -16,11 +16,11 @@ The goal of this project is to analyze and visualize the performance of a coffee
  **Average Orders per Person**: 1.438  
 
 ### Charts and Visuals Include:
- 1.Quantity ordered by hour
- 2.Total bill vs day of the week
- 3.Sales comparison by store location
- 4.Revenue trends by month and product category
- 5.Sales distribution by order size
+ 1.- Quantity ordered by hour
+ 2.- Total bill vs day of the week
+ 3.- Sales comparison by store location
+ 4.- Revenue trends by month and product category
+ 5.- Sales distribution by order size
 
 
 ## Dataset Details
